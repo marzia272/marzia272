@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @marzia272
 - 👀 I’m interested in Artifiical Intelligence 
-- 📫 How to reach marz.tahsin@gmail.com
 - 😄 Pronouns: she/her
 
 <!---
