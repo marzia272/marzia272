@@ -24,3 +24,5 @@ Interested in AI, Data, and UI Design
 ## Currently Learning
 - System Design
 - Machine Learning
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
