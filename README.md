@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @marzia272
-- 👀 I’m interested in Artifiical Intelligence 
-- 😄 Pronouns: she/her
-
 # Hi, I'm Marzia
 
 Computer Science Student  
