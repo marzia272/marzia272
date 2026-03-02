@@ -2,7 +2,29 @@
 - 👀 I’m interested in Artifiical Intelligence 
 - 😄 Pronouns: she/her
 
-<!---
-marzia272/marzia272 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi, I'm Marzia
+
+Computer Science Student  
+Interested in AI, Data, and UI Design  
+
+---
+
+## Tech Stack
+- Python
+- C++
+- SQL
+- React
+- Git
+
+---
+
+## Projects
+- Trip Planner App
+- MIPS Pipeline Simulator
+- Data Visualization Dashboard
+
+---
+
+## Currently Learning
+- System Design
+- Machine Learning
