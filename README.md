@@ -4,7 +4,6 @@
 
 > Computer Science student passionate about AI, Data, and crafting beautiful UIs
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=58a6ff&style=flat-square&label=Profile+views)
 
 ---
 
