@@ -4,8 +4,6 @@
 
 > Computer Science student passionate about AI, Data, and crafting beautiful UIs
 
-![](https://komarev.com/ghpvc/?username=marzia272&color=58a6ff&style=flat-square&label=Profile+views)
-
 ---
 
 ## 🚀 About Me
