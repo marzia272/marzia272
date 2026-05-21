@@ -4,8 +4,6 @@
 
 > CS student @ UMBC · AI researcher · Teaching Fellow · building things that are useful + pretty
 
-![](https://komarev.com/ghpvc/?username=marzia272&color=58a6ff&style=flat-square&label=Profile+views)
-
 ---
 
 ## 🚀 About Me
@@ -160,3 +158,4 @@ marzia = {
 <p align="center">
   <i>Thanks for stopping by! Open to internships, research roles, and interesting collaborations ⚡</i>
 </p>
+![](https://komarev.com/ghpvc/?username=marzia272&color=58a6ff&style=flat-square&label=Profile+views)
